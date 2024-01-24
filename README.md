@@ -1,6 +1,6 @@
 # uthmsync5
 
-A new Flutter project.
+This is the mobile application for UTHMSync. The interfaces are done, the backend is not. There is some problem to insert user activities data into Firebase.
 
 ## Getting Started
 
